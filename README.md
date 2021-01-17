@@ -16,7 +16,7 @@ Abordamos uma prática educativa simplificada e independente para que o usuário
 
 **É bem simples!**
 
-Quando você acessa o app pela primeira vez, você conhece o Dimdim, nosso querido mascote!
+Quando você acessa o app pela primeira vez, você conhece o Dim Dim, nosso querido mascote!
 
 ![001](https://user-images.githubusercontent.com/9161366/104856186-d9d56100-58ef-11eb-9cff-a64947983e10.png)
 
