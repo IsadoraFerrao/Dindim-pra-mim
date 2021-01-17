@@ -77,7 +77,7 @@ ionic start
 
 ### Execução
 
-Entre no navegador (como o firefox) e coloque o localhost: http://localhost:8100/
+Entre em um navegador da sua preferência (ex: firefox) e coloque o localhost: http://localhost:8100/
 
 ```
 
