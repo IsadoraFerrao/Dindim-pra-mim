@@ -10,7 +10,7 @@ Abordamos uma prática educativa simplificada e independente para que o usuário
 
  Chega de gastos descompensados, chega de preocupações. Dim dim pra mim, seu novo amigo financeiro!
  
-![logo](https://user-images.githubusercontent.com/9161366/104855873-143dfe80-58ee-11eb-845f-c543a393af54.png)
+![Logo](https://user-images.githubusercontent.com/9161366/104855933-55cea980-58ee-11eb-8f60-7769e43c067f.png)
 
 ## :thinking: Como funciona?
 
