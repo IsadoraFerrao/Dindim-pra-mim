@@ -1,5 +1,5 @@
 # Dim dim para mim
-## :money_with_wing: App mobile para educação financeira de crianças e adolescentes.
+## :star_struck: App mobile para educação financeira de crianças e adolescentes.
 
 Todo cidadão que receba orientação e formação financeira terá mecanismos suficientes para não cair no consumo excessivo, não ficará preso na teia dos juros exorbitantes, podendo preparar melhor seu consumo e planejar seu futuro de forma consciente e responsável. Isso acarretará em um país mais fortalecido, com uma população menos endividada e muito mais próspera.
 
