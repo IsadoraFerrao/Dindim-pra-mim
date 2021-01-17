@@ -1,0 +1,112 @@
+.login-header{
+    background: red;
+}
+
+.login-header{
+    position:relative;
+    background: white;
+    border-radius: 0em;
+}
+.login-header:after{
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 15%;
+    width: 0;
+    height: 0;
+    border: 20px solid transparent;
+    border-top-color: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+    border-bottom: 0;
+    margin-left: -15x;
+}
+.logo-img{
+    display: block;
+    width: 120px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+[heading-columm-lr]{
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+[big-heading]{
+    font-family: rb;
+    font-size: 30px !important;
+    color: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+}
+
+[small-heading]{
+    font-family: "Haebo-Bold" !important;
+    margin-left: auto;
+    padding-right: 40px;
+    font-size: 15px;
+
+}
+
+.ion-label{
+    color: #000;
+    opacity: .8;
+    font-size: 13px;
+    display: block;
+}
+
+.ion-content{
+    --background:#fafafa;
+    [transparent]{
+        --background:transparent;
+    }
+    ion-input{
+        --color: #000;
+        --padding-bottom: 15px;
+        --padding-top: 15px;
+        --padding-start: 5px;
+        font-size: 15px;
+        text-indent: 1px;
+        padding-left: 10px !important;
+    }
+
+    [icon-small]{
+        width: 3s0px;
+    }
+    ion-item{
+        --highlight-color-focused:transparent;
+        --highlight-height:0;
+        --highlight-color-invalid: #000;
+        --highlight-color-valid: #ddd;
+        --min-height:65px;
+        --padding-start: 0;
+    }
+
+    [linespace]{
+        height: 30px;
+    }
+
+    ion-label{
+        color:#000;
+        opacity: .8;
+        font-size: 13px;
+        display: block;
+    }
+
+    .forget-password{
+        color: #000;
+        font-size: 13px;
+        display: block;
+        text-align: right;
+        padding: 10px;
+    }
+}
+
+.center{
+    font-size:20;
+    h1{
+        font-size:30px;
+        font-family: rb;
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+    }
+}

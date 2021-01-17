@@ -1,0 +1,76 @@
+#container {
+    text-align: center;
+  
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  #container strong {
+    font-size: 20px;
+    line-height: 26px;
+  }
+  
+  #container p {
+    font-size: 16px;
+    line-height: 22px;
+  
+    color: #8c8c8c;
+  
+    margin: 0;
+  }
+  
+  #container a {
+    text-decoration: none;
+  }
+  
+  .SophIA-main{
+    padding: 5%;
+    height: 100%;
+  
+    ion.fab{
+      bottom: 45px;
+      right: 58px;
+  
+    }
+   
+    .SophIA-top{
+      margin-top: 5%;
+      ion-button{
+        font-family: rb;
+        text-transform: capitalize;
+        font-size: 0.9rem;
+        text-align: center !important;
+        
+      }
+  
+  
+      
+    }
+    .SophIA-bot{
+      ion-slides{
+        padding-bottom: 22%;
+        --bullet-background: linear-gradient(90deg, #8c36a5 0%, #664bdc 100%);
+  
+      }
+      .onb-img{
+        margin: 9% 0 8%;
+        img{
+          height: 350px;
+          width: 100%;
+          object-fit: cover;
+        }
+      }
+      h4{
+        font-size: 1.5rem;
+        font-family: rb;
+        margin-bottom: 4%;
+      }
+      p{
+        font-size: 1rem;
+        padding: 2% 5%;
+      }
+    }
+  }

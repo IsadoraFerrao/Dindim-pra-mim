@@ -1,0 +1,35 @@
+<ion-content style="--background:linear-gradient(to right, #00dbde 0%, #fc00ff 100%);"> 
+  <!-- linear-gradient(-20deg, #d558c8 0%, #24d292 100%);-->
+  <!-- linear-gradient(to right, #00dbde 0%, #fc00ff 100%);-->
+  <div class="SophIA-main">
+    <ion-fab vertical="bottom" horizontal="end">
+    <ion-fab-button [routerLink]="['/login']" routerDirection="forward" tab="prox" style="--background:#37a68d; margin-right: 15px; margin-bottom: 20px;">
+      <ion-icon name="chevron-forward">   
+
+        
+        </ion-icon>
+      </ion-fab-button>
+    </ion-fab>
+    <div class="SophIA-top">
+     </div>
+    <div class="SophIA-bot">
+      <ion-slides pager="true" #mainSlides>
+        <ion-slide *ngFor="let slide of SophIAslides">
+          <div class="onb-card">
+            <div class="onb-img">
+              <img src="../../assets/img/{{slide.img}}.png" alt="" >
+            </div>
+            <div class="onb-desc ion-text-center">
+              <h4 class="ion-text-capitalize ion-no-margin">{{slide.title}}</h4>
+              <p class="ion-no-margin">
+                {{slide.desc}}
+              </p>
+            </div>
+          </div>
+        </ion-slide>
+      </ion-slides>
+    </div>
+  </div>  
+
+      
+</ion-content>

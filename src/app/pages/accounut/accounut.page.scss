@@ -1,0 +1,107 @@
+.foto-perfil{
+    position: absolute;
+    width: 144px;
+    height: 140px;
+    left: 108px;
+    top: 65px;
+
+    background: rgba(255, 255, 255, 0.74);
+    border: 1px solid #57316c;
+    box-sizing: border-box;
+    border-radius: 90px;
+}
+.gastos{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+
+    margin-left: 180px;
+    margin-top:-5px;
+    width: 140px;
+    height: 82px;
+    left: 145px;
+    //top: 27px;
+
+    background: white;
+    opacity: 0.5; 
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 5px 20px blueviolet;
+    border-radius: 10px;
+}
+
+.metas{
+    position: absolute;
+    width: 170px;
+    height: 101px;
+    left: 13px;
+    top: 486px;
+    
+    opacity: 0.8;
+    /* Shadow / @light */
+    box-shadow: 0px 4px 4px rgba(255, 255, 255, 0.25), 0px 5px 20px white;
+    border-radius: 8px;
+}
+
+
+.investimentos{
+    position: absolute;
+    width: 170px;
+    height: 101px;
+    left: 180px;
+    top: 486px;
+    
+    
+    opacity: 0.8;
+    /* Shadow / @light */
+    box-shadow: 0px 4px 4px rgba(255, 255, 255, 0.25), 0px 5px 20px white;
+    border-radius: 8px;
+}
+
+.saldo{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+
+    position: relative;
+    width: 140px;
+    height: 82px;
+    left: 4px;
+    top: -90px;
+    margin-top: 8px;
+    background: white;
+    opacity: 0.5;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 5px 20px blueviolet;
+    border-radius: 10px;
+}
+
+.aluguel{
+    position: absolute;
+    width: 320px;
+    height: 46px;
+    left: 20px;
+    top: 270px;
+    font-family: rr;
+    background: #FFFFFF;
+    /* Shadow / @light */
+    box-shadow: 4px 4px rgba(0, 0, 0, 0.25), 0px 5px 20px #DDAAEF;
+    border-radius: 10px;
+}
+
+.categoria{
+    position: absolute;
+height: 16px;
+left: 17.77%;
+right: 7.94%;
+top: -2px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 23px;
+line-height: 18px;
+display: flex;
+align-items: flex-end;
+
+color: #5D87A8;
+}

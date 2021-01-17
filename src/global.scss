@@ -1,0 +1,60 @@
+/*
+ * App Global CSS
+ * ----------------------------------------------------------------------------
+ * Put style rules here that you want to apply globally. These styles are for
+ * the entire app and not just one component. Additionally, this file can be
+ * used as an entry point to import other CSS/Sass files to be included in the
+ * output CSS.
+ * For more information on global stylesheets, visit the documentation:
+ * https://ionicframework.com/docs/layout/global-stylesheets
+ */
+
+/* Core CSS required for Ionic components to work properly */
+@import "~@ionic/angular/css/core.css";
+
+/* Basic CSS for apps built with Ionic */
+@import "~@ionic/angular/css/normalize.css";
+@import "~@ionic/angular/css/structure.css";
+@import "~@ionic/angular/css/typography.css";
+@import '~@ionic/angular/css/display.css';
+
+/* Optional CSS utils that can be commented out */
+@import "~@ionic/angular/css/padding.css";
+@import "~@ionic/angular/css/float-elements.css";
+@import "~@ionic/angular/css/text-alignment.css";
+@import "~@ionic/angular/css/text-transformation.css";
+@import "~@ionic/angular/css/flex-utils.css";
+
+@font-face{
+   font-family: rb;
+   src: url('assets/fonts/Raleway-Black.ttf');
+}
+
+@font-face{
+    font-family: rr;
+    src: url('assets/fonts/Raleway-Regular.ttf');
+ }
+ 
+
+*{
+    font-family: rr;
+}
+
+.SophIA-main{
+    ion-slides{
+        .swiper-pagination.swiper-pagination-bullets{
+            left: auto !important;
+            right: auto;
+            text-align: center !important;
+        }
+        .swiper-pagination-bullet{
+            opacity: 1;
+        }
+    }
+}
+
+.ios{
+    ion-slides{
+        padding-bottom: 26% !important;
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "outDir": "es6",
+    "sourceMap": false,
+    "typeRoots": ["node_modules/@types/"],
+    "types": [],
+    "declaration": false
+  },
+  "files": [
+    "declarations.d.ts",
+    "ts/ApiAiClient.ts"
+  ]
+}
