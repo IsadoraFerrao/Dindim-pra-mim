@@ -1,4 +1,4 @@
-# Dim dim para mim
+# Dindim para mim
 ## :star_struck: App mobile para educação financeira de crianças e adolescentes.
 
 Todo cidadão que receba orientação e formação financeira terá mecanismos suficientes para não cair no consumo excessivo, não ficará preso na teia dos juros exorbitantes, podendo preparar melhor seu consumo e planejar seu futuro de forma consciente e responsável. Isso acarretará em um país mais fortalecido, com uma população menos endividada e muito mais próspera.
@@ -61,7 +61,7 @@ Cofre:
 Você deverá rodar o seguinte comando para clonar o repositório:
 
 ``` 
-git clone https://github.com/IsadoraFerrao/Dimdim-pra-mim.git
+git clone https://github.com/IsadoraFerrao/Dindim-pra-mim.git
 
 ```
 
