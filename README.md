@@ -11,15 +11,13 @@ Abordamos uma prática educativa simplificada e independente para que o usuário
  Chega de gastos descompensados, chega de preocupações. Dim dim pra mim, seu novo amigo financeiro!
 
 
-![Landing magalu](https://raw.githubusercontent.com/IsadoraFerrao/Dimdim-pra-mim/src/assets/img/logo.png)
-
 ## :thinking: Como funciona?
 
 **É bem simples!**
 
 Quando você acessa o app pela primeira vez, você conhece o Dimdim, nosso querido mascote!
 
-![Página de login](https://raw.githubusercontent.com/lindiner/winx_solution/main/screenshots/01.png)
+![Página de login](https://raw.githubusercontent.com/IsadoraFerrao/Dimdim-pra-mim/src/assets/img/logo.png)
 
 ... depois, basta você colocar um usename bem legal e a sua idade para começar a diversão!
 ![Página de cadastro de loja](https://raw.githubusercontent.com/lindiner/winx_solution/main/screenshots/03.png)
