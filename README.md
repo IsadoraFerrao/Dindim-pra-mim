@@ -9,7 +9,8 @@ Frente a esse cenário, nós acreditamos que a educação deva começar desde a 
 Abordamos uma prática educativa simplificada e independente para que o usuário possa aprender educação financeira, enquanto se diverte jogando. Acreditamos que a mesada precisa ser educativa, portanto, utilizamos uma metodologia de recompensas pelas tarefas cumpridas ao longo da semana, por exemplo, aprender sobre juros e poupança. Além disso, os jovens podem trocar suas recompensas por incríveis códigos de descontos.. 
 
  Chega de gastos descompensados, chega de preocupações. Dim dim pra mim, seu novo amigo financeiro!
-
+ 
+![logo](https://user-images.githubusercontent.com/9161366/104855873-143dfe80-58ee-11eb-845f-c543a393af54.png)
 
 ## :thinking: Como funciona?
 
