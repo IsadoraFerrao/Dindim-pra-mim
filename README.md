@@ -11,8 +11,7 @@ Abordamos uma prática educativa simplificada e independente para que o usuário
  Chega de gastos descompensados, chega de preocupações. Dim dim pra mim, seu novo amigo financeiro!
 
 
-
-![Landing magalu](https://raw.githubusercontent.com/lindiner/src/assets/img/logo.png)
+![Landing magalu](https://raw.githubusercontent.com/IsadoraFerrao/Dimdim-pra-mim/src/assets/img/logo.png)
 
 ## :thinking: Como funciona?
 
@@ -76,8 +75,8 @@ ionic start
 
 ### Execução
 
-:warning: Entre no navegador (como o firefox) e coloque o localhost: http://localhost:8100/
+Entre no navegador (como o firefox) e coloque o localhost: http://localhost:8100/
 
 ```
 
-E por fim, agora é só se divertir enquando aprende :)
+E por fim, agora é só se divertir enquanto aprende :)
