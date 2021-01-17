@@ -18,34 +18,37 @@ Abordamos uma prática educativa simplificada e independente para que o usuário
 
 Quando você acessa o app pela primeira vez, você conhece o Dimdim, nosso querido mascote!
 
-![Página de login](https://github.com/IsadoraFerrao/Dimdim-pra-mim/src/assets/img/logo.png)
+![001](https://user-images.githubusercontent.com/9161366/104856186-d9d56100-58ef-11eb-9cff-a64947983e10.png)
+
+![002](https://user-images.githubusercontent.com/9161366/104856188-dcd05180-58ef-11eb-846a-7f3f44b1e9d7.png)
+
 
 ... depois, basta você colocar um usename bem legal e a sua idade para começar a diversão!
-![Página de cadastro de loja](https://raw.githubusercontent.com/lindiner/winx_solution/main/screenshots/03.png)
+
+![003](https://user-images.githubusercontent.com/9161366/104856194-eb1e6d80-58ef-11eb-823c-562ed0ecba97.png)
 
 Cá estamos na página principal, você poderá ter uma visão geral do que é possível fazer no aplicativo!
 
-![Homepage](https://raw.githubusercontent.com/lindiner/winx_solution/main/screenshots/04.png)
+![004](https://user-images.githubusercontent.com/9161366/104856198-fc677a00-58ef-11eb-8d0e-af1bcea7ba60.png)
 
 Mas não se preocupe, caso queira ver mais detalhes, temos uma parte específica para cada um!
 
-![Página de pedidos](https://raw.githubusercontent.com/lindiner/winx_solution/main/screenshots/05.png)
-
 Pódio:
 
-![Página de estoque](https://raw.githubusercontent.com/lindiner/winx_solution/main/screenshots/06.png)
+![005](https://user-images.githubusercontent.com/9161366/104856208-0ee1b380-58f0-11eb-8471-83e26d0d174a.png)
 
 Games:
 
-![Página de notificações](https://raw.githubusercontent.com/lindiner/winx_solution/main/screenshots/07.png)
+![008](https://user-images.githubusercontent.com/9161366/104856219-1b660c00-58f0-11eb-996f-d755c8f92cb1.png)
+![009](https://user-images.githubusercontent.com/9161366/104856221-202ac000-58f0-11eb-9d39-fa16146b9f91.png)
 
 Mimos:
 
-![Página de controle da loja](https://raw.githubusercontent.com/lindiner/winx_solution/main/screenshots/08.png)
+![006](https://user-images.githubusercontent.com/9161366/104856239-405a7f00-58f0-11eb-9931-4a2b3e543149.png)
 
 Cofre:
 
-![Conversa com o chatbot](https://raw.githubusercontent.com/lindiner/winx_solution/main/screenshots/magalu%20gif.gif")
+![007](https://user-images.githubusercontent.com/9161366/104856244-4cded780-58f0-11eb-8eb7-0d3f693a3367.png)
 
 ## :star_struck: O que devo fazer para testar o projeto?
 
